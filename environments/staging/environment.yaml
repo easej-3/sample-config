@@ -6,7 +6,7 @@ app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
-  version: "3539fc61-70be-4458-8a81-0325e4f0e1a3"
+  version: ""
   
   #test1
   
